@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+}
+body{
+    background-color: darkred;
+}
+.SiteIcon{
+    width: auto;
+    max-width: 600px;
+    margin: 20px auto;
+}
+.SiteIcon img{
+    width: 100%;
+}
+.menu{
+    width: 70%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 30px auto;
+    background-color: black;
+    text-align: center;
+}
+.menu a{
+    border-style: inset;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-color: white;
+    padding-left: 8px;
+    text-decoration: none;
+    margin: 50px;
+    color: white;
+    font-size: 25px;
+    font-family: "Segoa UI";
+    font-weight: bold;
+    width: auto;
+}
+.text{
+    background-color: black;
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+.text h1{
+    color: white;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+.text p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:darkgreen;
+    color: white;
+    font-size: 24px;
+    margin: 20px;
+    font-family: tohoma;
+    line-height: 30px;
+}

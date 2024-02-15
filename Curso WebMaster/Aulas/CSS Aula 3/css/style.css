@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    background-color: black;
+    height: 100%;
+}
+.banner{
+    width: auto;
+    margin: 20px auto;
+    text-align: center;
+}
+.menu{
+    width: 10px auto;
+    height: auto;
+    background-color: darkred;
+    margin: 10px 20% 10px 20%;
+    text-align: center;
+    border-radius: 10px;
+}
+.menu img {
+    width: auto;
+}
+.menu a{
+    font-size: 30px;
+    font-family: Verdana;
+    text-decoration: none;
+    color: white;
+    margin: 60px
+}
+.video{
+    margin: 0 auto;
+    width: auto;
+    text-align: center;
+}
+.video iframe{
+    width: 600px;
+    height: 400px;
+}
